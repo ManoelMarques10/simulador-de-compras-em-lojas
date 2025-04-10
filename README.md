@@ -2,12 +2,13 @@
 Um projeto em Python que simula diferentes métodos de pagamento em uma loja, aplicando descontos ou juros conforme a forma de pagamento escolhida.
 
 💻 Como usar
-Clone o repositório:
-git clone https://github.com/ManoelMarques10/simulador-de-compras-em-lojas
-Abra o arquivo simulador.py no seu editor preferido.
+
+Clone o repositório e abra o arquivo simulador.py no seu editor preferido.
 
 Execute no terminal:
+
 python simulador.py
+
 Digite o valor da compra e escolha o método de pagamento.
 
 💳 Métodos de pagamento
@@ -22,10 +23,7 @@ Cartão de crédito de 3x até 10x → 20% de juros 💸
 🛠 Feito com
 Python 3
 
-Criatividade + aprendizado constante 🚀
+Projeto feito para um exercício do meu curso de python no curso em vídeo.🚀
 
-Projeto criado como prática dos meus estudos em Python.
-Mais melhorias podem vir no futuro (ex: menu mais bonito, interface gráfica, etc).
 Valeu por conferir!
-
 
