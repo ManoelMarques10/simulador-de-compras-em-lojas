@@ -1,7 +1,7 @@
 # 🛒 Simulador de Compras em Loja
 
 Simulador básico de compras em uma loja, feito em Python.  
-Permite simular pagamentos com diferentes condições: à vista, débito, parcelado com ou sem juros, e com descontos.
+Permite simular pagamentos com diferentes condições: à vista com 10% de desconto, débito com 5% desconto e parcelado com ou sem juros.
 
 ---
 
@@ -9,10 +9,10 @@ Permite simular pagamentos com diferentes condições: à vista, débito, parcel
 
 1. O usuário informa o valor total da compra.
 2. Escolhe a forma de pagamento:
-   - À vista no dinheiro com 10% de desconto.
-   - Débito (sem desconto, valor normal).
-   - Parcelado em até 2x no cartão (sem juros).
-   - Parcelado em 3x ou mais no cartão (com juros de 20%).
+   - À vista no dinheiro → 10% de desconto.
+   - Cartão de débito → 5% de desconto.
+   - Cartão de crédito em até 2x → sem juros.
+   - Cartão de crédito em 3x ou mais → com juros de 20%.
 3. O programa calcula e exibe o valor final e o valor de cada parcela, se aplicável.
 
 ---
