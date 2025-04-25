@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoelMarques10/simulador-de-compras-em-lojas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoelMarques10&repo=simulador-de-compras-em-lojas)](https://github.com/ManoelMarques10/simulador-de-compras-em-lojas)
 # 🛒 Simulador de Compras em Loja 
 
 
