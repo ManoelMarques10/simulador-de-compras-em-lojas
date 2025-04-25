@@ -1,4 +1,6 @@
-# 🛒 Simulador de Compras em Loja
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoelMarques10/simulador-de-compras-em-lojas)
+# 🛒 Simulador de Compras em Loja 
+
 
 Simulador básico de compras em uma loja, feito em Python.  
 Permite simular pagamentos com diferentes condições: à vista com 10% de desconto, débito com 5% desconto e parcelado com ou sem juros.
