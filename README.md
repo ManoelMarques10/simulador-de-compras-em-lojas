@@ -1,3 +1,5 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManoelMarques10&repo=github-readme-stats)](https://github.com/ManoelMarques10/github-readme-stats)
+
 # 🛒 Simulador de Compras em Loja
 
 Simulador básico de compras em uma loja, feito em Python.  
